@@ -62,7 +62,7 @@ The most direct approach involves updating an object's position at each timestep
 
 
 ##### Continous Collision Detection 
-This method is similar to discrete detection but calculates potential collisions ahead of time based on an object's trajectory, and interpolating the potential positions of the object between time steps, this is computationally expensive, but provides higher accuracy than the discrete method.
+This method calculates potential collisions ahead of time based on an object's trajectory, by interpolating the positions of the object between time steps, this is computationally expensive, but provides higher accuracy than the discrete method.
 
 
 | continous collision |

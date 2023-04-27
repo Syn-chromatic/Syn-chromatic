@@ -11,7 +11,7 @@ A Python project that combines a timer module and a custom profiler to analyze a
 
 
 ## Levenshtein Algorithm — [Repo](https://github.com/syn-chromatic/levenshtein-distance)
-A Python project that implements the Levenshtein distance algorithm to measure the similarity between two strings. The algorithm calculates the minimum number of single-character edits (insertions, deletions, or substitutions) required to transform one string into another. This efficient and versatile algorithm has applications in fields such as natural language processing, data cleansing, and spell checking.
+A Python project that implements the Levenshtein distance algorithm to measure the similarity between two strings. The algorithm calculates the minimum number of single-character edits (insertions, deletions, or substitutions) required to transform one string into another. This efficient and versatile algorithm has applications in fields such as natural language processing, data cleansing, spell checking, and search engines.
 
 
 ## Discord Bot Automatic Background Removal — [Repo](https://github.com/syn-chromatic/discord-bg-removal-bot)

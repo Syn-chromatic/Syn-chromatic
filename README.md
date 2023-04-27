@@ -21,4 +21,8 @@
 
 ___
 
-[Read more about me](FULL_README.md)
+<p align="center">
+  <a href="FULL_README.md" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Read%20more%20about%20me-informational?style=for-the-badge&logo=&logoColor=white&color=912e27" alt="Read more about me" />
+  </a>
+</p>

@@ -43,7 +43,7 @@ If we flatten the Z-Axis onto a 2D plane, which is fundamentally the same idea a
 
 This suddenly creates a problem, if you imagine those two particles moving away from you in a parallel path, meaning that the distance between them stays the same, then through that same view, it would appear as the particles are keeping the same distance, because it is linearly defined in this world, but that's not how 3D perception works, the particles should appear closer together as they move away.
 
-This is where camera projection comes in, by creating a virtual frustum, we can define two planes (Near Plane and Far Plane) and intersect the objects that are present inside.
+This is where camera projection comes in, by creating a virtual frustum, we can define two planes (Near Plane and Far Plane) and intersect the objects that are present inside, which enables depth perception.
 
 | camera frustum |
 | :---: |

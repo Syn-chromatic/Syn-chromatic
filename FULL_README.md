@@ -19,7 +19,7 @@ A powerful tool that leverages machine learning to seamlessly remove backgrounds
 
 
 ## Custom Game Engine — [Repo](https://github.com/syn-chromatic/rust-g-engine)
-Initially intended as an exploration into game development and related concepts, this project quickly evolved into a passion-driven project of mine.
+Initially intended as an exploration into game development and related concepts, this quickly evolved into a passion-driven project of mine.
 
 ### 🎥 Camera Projection
 Grasping the concept of camera projection proved challenging at first.

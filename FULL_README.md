@@ -54,7 +54,7 @@ Physics presents a significant challenge in game development due to processing l
 
 #### Main Types of Collision Detection 
 ##### Discrete Collision Detection 
-The most direct approach involves updating an object's position at each timestep of the physics simulation. However, this method can lead to objects moving too quickly, phasing through walls without detection.
+The most direct approach involves updating an object's position at each timestep of the physics simulation and checking for a collision, However, if an object is moving too quickly, there is a possibility it could phase through walls without detection.
 
 | discrete collision |
 | :---: |
@@ -62,7 +62,7 @@ The most direct approach involves updating an object's position at each timestep
 
 
 ##### Continous Collision Detection 
-This method is similar to discrete detection but calculates potential collisions ahead of time based on an object's trajectory, and interpolating the potential positions of the object between time steps, this is computationally expensive, but it provides high accuracy.
+This method is similar to discrete detection but calculates potential collisions ahead of time based on an object's trajectory, and interpolating the potential positions of the object between time steps, this is computationally expensive, but provides higher accuracy than the discrete method.
 
 
 | continous collision |

@@ -61,11 +61,11 @@ The most direct approach involves updating an object's position at each timestep
 | <img src="https://github.com/syn-chromatic/syn-chromatic/blob/main/media/discrete_collision.png"/> |
 
 
-##### Continous Collision Detection 
+##### Continuous Collision Detection 
 This method calculates potential collisions ahead of time based on an object's trajectory, by interpolating the positions of the object between time steps, this is computationally expensive, but provides higher accuracy than the discrete method.
 
 
-| continous collision |
+| continuous collision |
 | :---: |
 | <img src="https://github.com/syn-chromatic/syn-chromatic/blob/main/media/continous_collision.png"/> |
 

@@ -33,7 +33,7 @@ Imagine you have a virtual world within a cube, where for each axis of this worl
 
 One might assume it'd be as simple as viewing the world through one side of the cube and displaying everything on screen, but this is an inaccurate representation of 3D perception for key reasons:
 
-Imagine we flatten the Z-Axis, which is fundamentally the same idea as looking through this world from one of its sides.
+Imagine we flatten the Z-Axis, which is fundamentally the same idea as viewing this world from one of its sides.
 
 | flattened world |
 | :---: |

@@ -23,8 +23,7 @@ Initially intended as an exploration into game development and related concepts,
 
 ### 🎥 Camera Projection
 Grasping the concept of camera projection proved challenging at first.
-Imagine you have a virtual world within a cube, where for each axis of this world is the maximum floating-point that a computer can represent, now imagine you want to set up a view point and look through this world.
-
+Imagine you have a virtual world within a cube of XYZ dimensions, where for each axis of this world is the maximum floating-point value that a computer can represent, now imagine you want to set up a view point and look through this world.
 
 
 | matrix representation of a world  |
@@ -32,18 +31,18 @@ Imagine you have a virtual world within a cube, where for each axis of this worl
 | <img src="https://github.com/syn-chromatic/syn-chromatic/blob/main/media/world.png"/> |
 
 
-One might assume it'd be as simple as viewing the world through one side and displaying everything on screen, but this is an inaccurate representation of 3D perception for key reasons:
+One might assume it'd be as simple as viewing the world through one side of the cube and displaying everything on screen, but this is an inaccurate representation of 3D perception for key reasons:
 
-If we flatten the Z-Axis onto a 2D plane, which is fundamentally the same idea as looking through this world from one of its sides
+Imagine we flatten the Z-Axis, which is fundamentally the same idea as looking through this world from one of its sides.
 
 | flattened world |
 | :---: |
 | <img src="https://github.com/syn-chromatic/syn-chromatic/blob/main/media/flattened_world.png"/> |
 
 
-This suddenly creates a problem, if you imagine those two particles moving away from you in a parallel path, meaning that the distance between them stays the same, then through that same view, it would appear as the particles are keeping the same distance, because it is linearly defined in this world, but that's not how 3D perception works, the particles should appear closer together as they move away.
+This suddenly creates a problem, if you imagine those two particles moving away from the view point in a parallel path, then it would appear as the particles are keeping the same distance from each other on the screen, as it is linearly defined in this world, but that's not how 3D perception works, the particles should appear closer together as they move away.
 
-This is where camera projection comes in, by creating a virtual frustum, we can define two planes (Near Plane and Far Plane) and intersect the objects that are present inside, which enables depth perception.
+This is where camera projection comes in, by creating a virtual frustum, we can define two planes, a near plane and a far plane, and project the objects that are present inside, which enables depth perception.
 
 | camera frustum |
 | :---: |

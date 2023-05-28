@@ -1,16 +1,6 @@
-
-
 <div align="center">
-
-| 📊 Statistics |
-| :---: |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syn-chromatic&show_icons=true&theme=dark&locale=en" alt="syn-chromatic" /></p> |
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syn-chromatic&theme=dark" alt="syn-chromatic" /></p> |
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syn-chromatic&show_icons=true&theme=dark&locale=en&layout=compact" alt="syn-chromatic" /></p> |
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syn-chromatic&theme=dark" alt="syn-chromatic" /></p>
 </div>
-
-
 
 <div align="center">
 

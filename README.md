@@ -23,7 +23,7 @@
 		</td>
 		<td align="center" valign="top">
 			<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
-			<a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank" rel="noreferrer" title="IntelliJ IDEA"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" /></a>
+			<a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank" rel="noreferrer" title="IntelliJ IDEA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40" /></a>
 			<a href="https://en.wikipedia.org/wiki/VTune" target="_blank" rel="noreferrer" title="Intel VTune"><img src="https://www.intel.com/content/dam/develop/external/us/en/images/vtune-logo-oneapi-2021.png" alt="Intel VTune" width="40" height="40" /></a>
 			<a href="https://en.wikipedia.org/wiki/SQLAlchemy" target="_blank" rel="noreferrer" title="SQLAlchemcy"><img src="https://avatars.githubusercontent.com/u/6043126?v=4" alt="sqlalchemy" width="40" height="40" /></a>
 			<a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank" rel="noreferrer" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
